@@ -1,0 +1,13 @@
+Any new changes to the website can be logged here.  Please note the time and date along with the changes if possible.
+
+-----------------------------------------------------------------------------
+
+Change Log file created - 8/21/11 - 8:37 PM EST
+
+-----------------------------------------------------------------------------
+
+8/22/11 - 12:00 PM EST - Added a bit of code in CSS and HTML to force image loading before the website loads.  Not sure I am seeing much of a difference but it SEEMS to be loading a bit faster.  
+
+Still trying to get the bottom bar's fonts to not change from Blue to Purple after clicked.  
+
+-----------------------------------------------------------------------------
